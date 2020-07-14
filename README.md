@@ -1,2 +1,2 @@
 # Proyecto_1
-Primero proyecto en GitHub
+Primer proyecto en GitHub
